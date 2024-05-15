@@ -1,0 +1,17 @@
+{
+  "name": "prueba-club-deportivo",
+  "version": "1.0.0",
+  "description": "Prueba Modulo Node Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jorge Leiva",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
